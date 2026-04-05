@@ -5,3 +5,9 @@
 *.log
 *.jou
 *.str
+.Xil/
+pro_counter.cache/
+pro_counter.hw/
+pro_counter.ip_user_files/
+pro_counter.runs/
+pro_counter.sim/
