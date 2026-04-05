@@ -1,0 +1,7 @@
+.sim/
+.cache/
+.runs/
+.Xil/
+*.log
+*.jou
+*.str
