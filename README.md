@@ -116,15 +116,10 @@ The design consists of three main modules:
 
 ---
 Parameterized-Counter-FSM
- ┣ RTL
- ┃ ┣ counter_top.sv
- ┃ ┣ control_fsm.sv
- ┃ ┗ counter_datapath.sv
- ┣ TB
- ┃ ┗ counter_tb.sv
- ┣ Reports
- ┃ ┗ Parameterized Counter using FSM.pdf
- ┗ README.md
+  RTL(counter_top.sv, control_fsm.sv, counter_datapath.sv)
+  TB(counter_tb.sv)
+  Reports(Parameterized Counter using FSM.pdf)
+  README.md
 ---
 
 ## Author
