@@ -115,11 +115,11 @@ The design consists of three main modules:
 ## Project Structure
 
 ---
-Parameterized-Counter-FSM
-  RTL(counter_top.sv, control_fsm.sv, counter_datapath.sv)
-  TB(counter_tb.sv)
-  Reports(Parameterized Counter using FSM.pdf)
-  README.md
+Parameterized-Counter-FSM,
+RTL(counter_top.sv, control_fsm.sv, counter_datapath.sv),
+TB(counter_tb.sv),
+Reports(Parameterized Counter using FSM.pdf),
+README.md
 ---
 
 ## Author
